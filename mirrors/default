@@ -5,6 +5,6 @@ WEIGHT=10
 #ROOT="https://packages-cf.termux.dev/apt/termux-root"
 #X11="https://packages-cf.termux.dev/apt/termux-x11"
 
-MAIN="http://nuget.zonejoin.cn/repository/apt-termux-main"
-ROOT="http://nuget.zonejoin.cn/repository/apt-termux-root"
-X11="http://nuget.zonejoin.cn/repository/apt-termux-x11"
+MAIN="https://nuget.zonejoin.cn/repository/apt-termux-main"
+ROOT="https://nuget.zonejoin.cn/repository/apt-termux-root"
+X11="https://nuget.zonejoin.cn/repository/apt-termux-x11"
